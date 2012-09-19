@@ -1,0 +1,38 @@
+
+h1 {
+	font-family:"Verdana",sans-Serif;	
+	font-size: 20pt;
+	font-weight: strong;
+	padding-bottom: 0px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-family:"Verdana",sans-Serif;
+	font-size: 16pt;
+	font-weight: strong;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-family:"Verdana",sans-Serif;
+	font-size: 12pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+
+li {
+	font-family:"Verdana",sans-Serif;
+	font-size: 10pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+
+}
+
+#resumeheader {background:#00F; width:900px; margin:auto; padding:10px; text-align:center; }
+
+#resumebody {background:#00F; width:900px; margin:auto; padding:10px; text-align:left; }
