@@ -3,22 +3,23 @@
 body {
 	color:white;
 	font-family: "Verdana",sans-Serif;
+	text-align: center;
 	font-size: 12pt;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: auto;
+	margin-right: auto;
 	}
 h1 {
 	font-family:"Verdana",sans-Serif;	
 	font-size: 28pt;
-	font-weight: strong;
+	font-weight: bold;
 	padding-bottom: 0px;
-	margin-bottom: 20px;
+	margin-bottom: 5px;
 }
 
 h2 {
 	font-family:"Verdana",sans-Serif;
 	font-size: 16pt;
-	font-weight: strong;
+	font-weight: bold;
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
@@ -54,8 +55,8 @@ td
  
 a:link, a:visited { color: #fff; text-decoration: none}
 a:hover { color: #fff; text-decoration: underline;}
-
-#header { background:#333; width:900px; margin:auto; padding:5px 20px; height:100px; border: solid 2px black; }
+ 
+#header { background:#333; width:900px; margin:auto; padding:5px 20px; height:100px; border: solid 2px black;}
 
 #content {background:#36c; width:900px; margin:auto; padding:20px; border: solid 2px black;}
 

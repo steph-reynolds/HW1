@@ -1,0 +1,16 @@
+
+body {
+	color:black;
+	font-family: "Verdana",sans-Serif;
+	text-align: center;
+	font-size: 12pt;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+
+#header, #nav, #sidebar, #footer { display: none; }	
+	
+#resumeheader {background:#fff; width:900px; margin:auto; padding:20px; text-align:center; border-left:solid 2px black; border-right:solid 2px black; border-top:solid 2px black;}
+
+#resumebody {background:#fff; width:900px; margin:auto; padding:20px; text-align:left; border-bottom:solid 2px black; border-left:solid 2px black; border-right:solid 2px black; }
